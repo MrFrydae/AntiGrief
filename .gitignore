@@ -1,0 +1,40 @@
+# Gradle caches and generated output
+.gradle/
+.kotlin/
+build/
+out/
+bin/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE and editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+
+# Local development servers and logs
+/run/
+/server/
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,5 @@
+name: AntiGrief
+version: '${version}'
+main: dev.antigrief.AntiGriefPlugin
+api-version: '26.3'
+description: Prevents Endermen from picking up player-placed blocks.
